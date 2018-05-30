@@ -6,3 +6,5 @@ $a=3;
 echo 222;
 
 $b='this is git test';
+
+$c='boss';
